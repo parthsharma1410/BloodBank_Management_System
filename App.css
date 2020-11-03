@@ -1,0 +1,68 @@
+.App {
+  text-align: center;
+  scroll-behavior: smooth;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#nav{
+  display: flex;
+  background-color: #333;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(71, 71, 71);
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+  transition: 1s;
+}
+.form {
+  display: flex;
+  flex-direction:row;
+  align-items:center;
+  justify-content:center;
+  background-color: rgb(247, 244, 244);
+}
+
+
+.form input {
+  width: 200px;
+  height: 20px;
+  margin: 10px;
+}
+
+button{
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: rgb(133, 133, 133);
+}
+button:hover{
+  background-color: rgb(27, 27, 27);
+  color: white;
+  transition: 1s;
+}
+
+.del{
+  color: white;
+  background-color: rgb(231, 99, 99);
+}
+
+.del:hover{
+  background-color: rgb(187, 31, 31);
+}
