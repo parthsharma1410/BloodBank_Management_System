@@ -1,0 +1,2 @@
+# BloodBank_Management_System
+CSE2004 DBMS Project BLOOD BANK MANAGEMENT SYSTEM's frontend and backend files: PARTH SHARMA 19BCE0761 |  KABIR WADHWA 19BCE2359
